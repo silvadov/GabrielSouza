@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=Linkedin&logoColor=white">
   </a>
   <a href="https://drive.google.com/file/d/1mAbwgACAPpEV9viqL2QpCOzgRQSJfN6B/view?usp=sharing">
-    <img src="https://img.shields.io/badge/-Website-00AB33?style=flat-square&logo=Google-Chrome&logoColor=white">
+    <img src="https://img.shields.io/badge/-Curriculo-00AB33?style=flat-square&logo=Google-Chrome&logoColor=white">
   </a>
   <a href="mailto:contato@fernandakipper.com">
     <img src="https://img.shields.io/badge/-contato@fernandakipper.com-00AB33?style=flat-square&logo=Gmail&logoColor=white">
