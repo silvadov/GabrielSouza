@@ -22,9 +22,9 @@
   <a href="https://drive.google.com/file/d/1mAbwgACAPpEV9viqL2QpCOzgRQSJfN6B/view?usp=sharing">
     <img src="https://img.shields.io/badge/-Curriculo-00AB33?style=flat-square&logo=Google-Chrome&logoColor=white">
   </a>
-  <a href="mailto:contato@fernandakipper.com">
-    <img src="https://img.shields.io/badge/-contato@fernandakipper.com-00AB33?style=flat-square&logo=Gmail&logoColor=white">
-  </a>
+  <a href="mailto:gabrieldovallegarcia27@gmail.com">
+  <img src="https://img.shields.io/badge/-gabrieldovallegarcia27@gmail.com-00AB33?style=flat-square&logo=Gmail&logoColor=white">
+</a>
 </p>
 
 ---
