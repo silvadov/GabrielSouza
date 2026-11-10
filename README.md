@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  I'm passionate about technology, education, and creativity.  
+  I'm , education, and creativity.  
   Here you’ll find projects, tutorials, and my experiments with AI, Java, Cloud, and more :)
 </p>
 
@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/gabriel-souza-16a636183/">
     <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=Linkedin&logoColor=white">
   </a>
-  <a href="https://fernandakipper.com/">
+  <a href="https://drive.google.com/file/d/1mAbwgACAPpEV9viqL2QpCOzgRQSJfN6B/view?usp=sharing">
     <img src="https://img.shields.io/badge/-Website-00AB33?style=flat-square&logo=Google-Chrome&logoColor=white">
   </a>
   <a href="mailto:contato@fernandakipper.com">
