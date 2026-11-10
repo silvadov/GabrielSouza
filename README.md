@@ -11,8 +11,7 @@
 ---
 
 <p align="center">
-  I'm , education, and creativity.  
-  Here you’ll find projects, tutorials, and my experiments with AI, Java, Cloud, and more :)
+  Sou um estudante de engenharia química no final do curso, gosto muito de desenvolver projetos com inteligencia artificial. :)
 </p>
 
 <p align="center">
