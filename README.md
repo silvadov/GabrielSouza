@@ -35,7 +35,8 @@
 - 🚀 Projeto em destaque 🤖 
 Desenvolvi um agente AI para me ajudar a criar uma melhoria de processos com um aplicativo em low code que receber as informaçoes input de um procedimento de envase/ embalagem dentro da industria farmacêutica, obtendo um KPI(feedback) se o procedimento esta dentro do padrão de produtividade meta/hora, identificando gargalos e sugerindo oportunidades de melhoria para gerentes do site industrial (merck sharp & dohme farmaceutica ltda)
 
-Link video demonstrando app:
+Link documento demonstrando meu app:
+https://docs.google.com/document/d/1sIXmkSbeh8QjUfXBXwjXZcIHV9X1iPt-/edit?usp=sharing&ouid=106628346017343954532&rtpof=true&sd=true
 
 - 👨🏻‍💻🥇 Meu diferencial está na combinação de: - Raciocínio analítico de Engenharia; - Conhecimento de processos industriais; - Experiência com qualidade e compliance; - Entendimento de indicadores e negócios; - Aplicação prática de Inteligência Artificial; - Automação e visualização de dados.
   
